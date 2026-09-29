@@ -1,0 +1,9 @@
+# Large electrophysiology recordings
+*.bin
+*.dat
+
+# MATLAB editor and operating system temporary files
+*.asv
+*.m~
+Thumbs.db
+.DS_Store
